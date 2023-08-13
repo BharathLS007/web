@@ -1,0 +1,30 @@
+h1,h2{
+    text-decoration: underline;
+    font-style: italic;
+    text-align: center;
+    }
+    #body{
+    background-color: tan;
+    border: red dotted;
+    text-align: center;
+    }
+    .div{
+    border: peru solid ;
+    }
+    *{
+    letter-spacing: 1px;
+    }
+    a:link{
+    color: black;
+    }
+    a:visited{
+    color: yellow;
+    }
+    a:hover{
+    color: green;
+    }
+    a:active{
+    color: blue;
+    }
+    ul li{font-size: small;
+    }
